@@ -1,0 +1,44 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  text-align: center;
+}
+
+h2{
+  text-align: center;
+}
+
+a {
+  color: black;
+  background-color: white;
+  padding: 10px;
+  border-radius: 2px;
+  list-style: none;
+  text-decoration: none;
+  margin-top: 50px;
+}
+main form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+main form input{
+  margin-top: 10px;
+  margin-bottom: 10px;
+  text-align: center;
+}
+span{
+  margin: 10px 0;
+  color: red;
+}
+
+div select {
+  margin-bottom: 20px;
+  padding-left: 35px;
+  padding-right:35px;
+}
+
+button {
+  margin-top: 50px;
+  background-color: white;
+}
